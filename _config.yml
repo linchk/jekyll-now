@@ -22,7 +22,7 @@ footer-links:
   email: redghostx@rambler.ru
   facebook:
   flickr:
-  github: linchk/linchk.github.io
+  github: #linchk/linchk.github.io
   instagram:
   linkedin:
   pinterest:
@@ -85,5 +85,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-theme: jekyll-theme-midnight

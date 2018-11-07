@@ -11,6 +11,7 @@ description: Заметки о программировании на Clojure, в
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: https://avatars1.githubusercontent.com/u/24978765?s=96&v=4
 
+repository: linchk/linchk.github.io
 #
 # Flags below are optional
 #
@@ -22,7 +23,7 @@ footer-links:
   email: redghostx@rambler.ru
   facebook:
   flickr:
-  github: #linchk/linchk.github.io
+  github: linchk/linchk.github.io
   instagram:
   linkedin:
   pinterest:
@@ -74,7 +75,7 @@ sass:
   style: :expanded # You might prefer to minify using :compressed
 
 # Use the following plug-ins
-gems:
+plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
